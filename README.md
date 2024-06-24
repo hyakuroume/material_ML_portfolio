@@ -7,14 +7,14 @@
 material_feature_df.csv.gz  
 Material ProjectからLiを含む化合物情報をダウンロードして作成したデータです。
 
-Li_material_featurizer_matminer.csv.gz  　
+Li_material_featurizer_matminer.csv.gz  
 material_feature_df.csvから、特徴量作成機であるmatminerを用いて追加した特徴量を含むデータです。
 
-learning_Li_battery_data.csv  　
+learning_Li_battery_data.csv  
 整理したデータで、最終的に各種機械学習モデルに読み込む際に使用したデータです。
 
 # ノートブック
-make_Li_dataframe.ipynb   　
+make_Li_dataframe.ipynb  
 Material Projectからデータをダウンロードし、DataFrame形式に変換するためのノートブックです。
 
 material_feature.ipynb  
