@@ -14,7 +14,7 @@ learning_Li_battery_data.csv  　
 整理したデータで、最終的に各種機械学習モデルに読み込む際に使用したデータです。
 
 # ノートブック
-make_Li_dataframe.ipynb  　
+make_Li_dataframe.ipynb   　
 Material Projectからデータをダウンロードし、DataFrame形式に変換するためのノートブックです。
 
 material_feature.ipynb  
