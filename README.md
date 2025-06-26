@@ -1,5 +1,10 @@
 # material_ML_portfolio
 
+<p align="center">
+  <img src="images/visualization_random_forest.png" width="250"/>
+  <img src="images/LiLuGe-P-62m.png" width="250"/>
+</p>
+
 このポートフォリオは、高性能な電池につながる材料特性を抽出するために、回帰分析や決定木系モデルを使用したノートブック集です。
 各種機械学習モデルの重みや特徴量を解析することを目的としています。
 
